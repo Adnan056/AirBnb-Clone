@@ -3,7 +3,7 @@ function Card(props){
     <div className="card">
         <div className="katie">
             <div className="photo">
-                <img src={`../src/assets/${props.img}`} alt="katie zaferes" />
+                <img src={`/src/assets/${props.img}`} alt="katie zaferes" />
                 {/* <div className="status">
                     <p>Sold out</p>
                 </div> */}
